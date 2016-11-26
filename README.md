@@ -2,6 +2,7 @@
 巨人英语项目
 
 GiantEnglish仓库是巨人英语项目的文件存放地址
+
 myProject仓库是巨人英语项目的eclipse工程存放地址 如果想访问代码工程 请移步https://github.com/Sunyongguo2016/myProjcet
 
 
